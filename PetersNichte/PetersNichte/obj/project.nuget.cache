@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CUCYRG8OPC0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schmi\\RiderProjects\\WinFormsApp1 - Kopie\\PetersNichte\\PetersNichte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schmi\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\opencvsharp4\\4.10.0.20241108\\opencvsharp4.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\opencvsharp4.extensions\\4.10.0.20241108\\opencvsharp4.extensions.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20241108\\opencvsharp4.runtime.win.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\opencvsharp4.windows\\4.10.0.20241108\\opencvsharp4.windows.4.10.0.20241108.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\schmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
